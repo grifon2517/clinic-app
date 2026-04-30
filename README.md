@@ -5,6 +5,8 @@
 ## Запуск проекта
 
 ### Backend
+
+```bash
 cd back
 npm install
 npm run seed
